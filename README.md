@@ -14,27 +14,21 @@ A TypeScript-powered Telegram bot that analyzes Forex pairs and Gold (XAU/USD), 
    ```sh
    git clone https://github.com/yourusername/forex-gold-bot.git
    cd forex-gold-bot
-Install dependencies:
+## Install dependencies:
 
-sh
-Copy
-Edit
 npm install
 Set up environment variables in a .env file:
 
-env
-Copy
-Edit
+
 TELEGRAM_BOT_TOKEN=your_bot_token
 FOREX_API_KEY=your_forex_api_key
 Run the bot:
 
-sh
-Copy
-Edit
 npm start
-Usage
+
+## Usage
 Add the bot to your Telegram group or chat.
 It will automatically analyze Forex pairs and Gold and send trade alerts.
-Contributing
+
+## Contributing
 Feel free to submit issues or pull requests to improve the bot.
