@@ -12,7 +12,7 @@ A TypeScript-powered Telegram bot that analyzes Forex pairs and Gold (XAU/USD), 
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/forex-gold-bot.git
+   git clone https://github.com/yourusername/FXMetals.git
    cd forex-gold-bot
 ## Install dependencies:
 
